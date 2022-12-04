@@ -11,7 +11,7 @@ I'm currently learning Java and Node.js and important tools for developers like 
 
 ✨Thank you for your attention, hope to work togheter soon!✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olmoceriotti&layout=compact&langs_count=15&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olmoceriotti&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
