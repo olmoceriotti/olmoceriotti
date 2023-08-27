@@ -4,6 +4,7 @@
 
 - [**Linkedin**](https://www.linkedin.com/in/olmoceriotti/)🛠
 - [**HackerRank**](https://www.hackerrank.com/olmoceriotti)⌨️
+- [**LeetCode**](https://leetcode.com/olmoceriotti/)📝
 - [**StackOverflow**](https://stackoverflow.com/users/17097651/olmoceriotti)💭
 
 ✨Thank you for your attention, hope to work togheter soon!✨
